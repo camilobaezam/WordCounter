@@ -54,20 +54,20 @@ Texto texto texto. Prueba prueba prueba.
 
 ## Características
 
-Ignora mayúsculas/minúsculas
-Elimina puntuación básica (.,!?;:"'()[]—)
-Muestra conteo total de palabras y palabras únicas
-Permite elegir cuántas palabras más frecuentes mostrar
-Maneja errores básicos (archivo no existe, vacío)
+- Ignora mayúsculas/minúsculas
+- Elimina puntuación básica (.,!?;:"'()[]—)
+- Muestra conteo total de palabras y palabras únicas
+- Permite elegir cuántas palabras más frecuentes mostrar
+- Maneja errores básicos (archivo no existe, vacío)
 
 ## Posibles mejoras futuras (ideas para extender el proyecto)
 
-Contar solo palabras con longitud mínima (ej: > 3 letras)
-Mostrar también las menos frecuentes
-Exportar resultados a archivo CSV
-Interfaz gráfica con tkinter
-Soporte para múltiples idiomas (stopwords)
-Gráficos de frecuencia (con matplotlib)
+- Contar solo palabras con longitud mínima (ej: > 3 letras)
+- Mostrar también las menos frecuentes
+- Exportar resultados a archivo CSV
+- Interfaz gráfica con tkinter
+- Soporte para múltiples idiomas (stopwords)
+- Gráficos de frecuencia (con matplotlib)
 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas!
