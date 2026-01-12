@@ -22,7 +22,7 @@ Perfecto para practicar:
 
 ## Uso
 
-Ejecuta el programa: python main.py
+Ejecuta el programa: python WordCounter.py
 El programa te pedirá la ruta del archivo de texto que quieres analizar.
 
 Ejemplo: 
